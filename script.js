@@ -6,8 +6,8 @@ const products = {
     name: "Matcha + Pudding Mangga",
     price: 6000
   },
-  coklat: {
-    name: "Coklat + Pudding Strawberry",
+  cokelat: {
+    name: "Cokelat + Pudding Strawberry",
     price: 6000
   }
 };
